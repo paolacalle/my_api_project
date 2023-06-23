@@ -12,7 +12,7 @@ for values in data['data'][1]['films']:
     print(f"{i}: {values}\n")
     i += 1
 
-if len(data['data'][1]['films']) == 0: 
+if len(data['data'][1]['films']) == 0:
     print(f"Could not find {input_name}")
 
 print("-----------------------------------")
