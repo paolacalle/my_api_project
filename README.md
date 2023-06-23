@@ -27,3 +27,4 @@ To run the second one, 'python3 disney_characters_api.py'
 - Once eneterd, it will list the films that character has been in if any 
 - NOTE: The amount of characters are limited due to to style and format 
 
+[![Check Style](https://github.com/paolacalle/my_api_project/actions/workflows/check_style.yaml/badge.svg)](https://github.com/paolacalle/my_api_project/actions/workflows/check_style.yaml)
